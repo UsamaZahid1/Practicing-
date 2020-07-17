@@ -134,6 +134,7 @@
     </LinearLayout>
 
     <Button
+        android:id="@+id/mainActivityBtn"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:text="Confirm"
